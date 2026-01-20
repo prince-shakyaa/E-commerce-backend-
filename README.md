@@ -338,5 +338,6 @@ Error calling payment service
 ## 👨‍💻 Developer
 
 Built for in-class assignment following Spring Boot best practices with clean architecture and proper error handling.
+
 Built with 💚 by [Prince Shakya](https://github.com/prince-shakyaa)
 
