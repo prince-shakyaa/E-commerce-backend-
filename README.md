@@ -296,12 +296,7 @@ E-Commerce/
 - [x] Order Status Update (10 points)
 - [x] Code Quality (10 points) - Clean code, proper structure
 - [x] Postman Collection (10 points)
-- [x] **Bonus Features:**
-  - [x] Order History API (+5 points)
-  - [x] Product Search API (+5 points)
-  - [x] Order Cancellation API (+5 points)
 
-**Total: 115/100 points**
 
 ## 🎁 Bonus Features Implemented
 
