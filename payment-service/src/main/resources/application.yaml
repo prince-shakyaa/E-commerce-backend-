@@ -1,0 +1,16 @@
+server:
+  port: 8081
+
+spring:
+  application:
+    name: payment-service
+
+# E-Commerce API Webhook URL
+ecommerce:
+  webhook:
+    url: http://localhost:8080/api/webhooks/payment
+
+logging:
+  level:
+    root: INFO
+    com.example.paymentservice: DEBUG

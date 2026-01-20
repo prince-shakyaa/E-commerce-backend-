@@ -1,0 +1,21 @@
+server:
+  port: 8080
+
+spring:
+  application:
+    name: ecommerce-api
+  data:
+    mongodb:
+      host: localhost
+      port: 27017
+      database: ecommerce
+
+# Mock Payment Service Configuration
+payment:
+  service:
+    url: http://localhost:8081
+
+logging:
+  level:
+    root: INFO
+    com.example.ecommerce: DEBUG
